@@ -1,6 +1,6 @@
 TO RUN THE PROGRAM: call javac to compile the program and then:
-java Simulate.java <filename>
-where <filename> is the input file. The output will be saved to a file
+```java Simulate.java <filename>```
+where ```<filename>``` is the input file. The output will be saved to a file
 called output
 
 The program reads in the binary file 8 bytes at a time and creates an array. 
