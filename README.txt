@@ -1,7 +1,7 @@
 TO RUN THE PROGRAM: call javac to compile the program and then:
-java OS1Assignment.java <filename>
+java Simulate.java <filename>
 where <filename> is the input file. The output will be saved to a file
-called output-OS1
+called output
 
 The program reads in the binary file 8 bytes at a time and creates an array. 
 The program then reverses and unsigns the array. Using other methods defined 
