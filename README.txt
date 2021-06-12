@@ -1,6 +1,3 @@
-Name: Sanele Hlongwane
-Student Number: HLNSAN005
-
 TO RUN THE PROGRAM: call javac to compile the program and then:
 java OS1Assignment.java <filename>
 where <filename> is the input file. The output will be saved to a file
