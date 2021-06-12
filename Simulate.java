@@ -54,7 +54,7 @@ public class Simulate {
      * @throws IOException
      */
     public static void main(String[] args) throws IOException{
-        FileWriter writer = new FileWriter("output-OS1");
+        FileWriter writer = new FileWriter("output");
         byte[] buffer = new byte[8];
         try{
         InputStream stream = new BufferedInputStream(new FileInputStream(args[0]), 8);
