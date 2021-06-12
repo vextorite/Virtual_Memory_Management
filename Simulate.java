@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.math.BigInteger;
 
-public class OS1Assignment {
+public class Simulate {
     /**
      * Performs translation for a given index, x
      * @param x the index of the Page Reference
