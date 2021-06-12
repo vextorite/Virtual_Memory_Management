@@ -1,4 +1,4 @@
-TO RUN THE PROGRAM: call javac to compile the program and then:
+TO RUN THE PROGRAM: call ```javac``` to compile the program and then:
 ```java Simulate.java <filename>```
 where ```<filename>``` is the input file. The output will be saved to a file
 called output
